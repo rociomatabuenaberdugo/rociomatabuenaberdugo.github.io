@@ -1,2 +1,2 @@
-# Mi página web
-Pulsa [aquí] (https://rociomatabuenaberdugo.github.io/) para ver la página web.
+﻿# Mi página web
+Pulsa [aquí] para ver la página web. (http://rociomatabuenaberdugo.github.io/)
