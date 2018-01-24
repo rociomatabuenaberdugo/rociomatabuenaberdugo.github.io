@@ -1,3 +1,3 @@
 ﻿# Mi página web
-Pulsa [aqui] (http://rociomatabuenaberdugo.github.io/)
-Pero esto debería pu.o [funcionar] (google.es)
+Pulsa [aqui] <a href="https://rociomatabuenaberdugo.github.io/"> para visualizar mi página web.
+[Pulsa aquí para ver mi página web.](https://rociomatabuenaberdugo.github.io/)
